@@ -17,3 +17,9 @@ Assignment: "Create a sketch that turns on and off 3 LEDS."
 ###"Traffic Light"
 * See the video [here](https://youtu.be/zY5be5Ik8AA)
 * See the code [here](https://github.com/lwhitaker3/Physical-Computing/blob/master/Week2/traffic_light/traffic_light.ino)
+
+##Week 3
+Assignment: "Use 2 switches to turn on 2 leds. Think of a use case, ie. game, application, and toy. Use paper, cardboard, and other medium, to create an interface to your use case."
+###"Project Name"
+* See the video [here](https://youtu.be/092U7Zyq3GQ)
+* See the code [here](https://github.com/lwhitaker3/Physical-Computing/blob/master/Week3/led_buttons/led_buttons.ino)
