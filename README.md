@@ -20,6 +20,16 @@ Assignment: "Create a sketch that turns on and off 3 LEDS."
 
 ##Week 3
 Assignment: "Use 2 switches to turn on 2 leds. Think of a use case, ie. game, application, and toy. Use paper, cardboard, and other medium, to create an interface to your use case."
-###"Project Name"
+###"Elevator Buttons"
 * See the video [here](https://youtu.be/092U7Zyq3GQ)
 * See the code [here](https://github.com/lwhitaker3/Physical-Computing/blob/master/Week3/led_buttons/led_buttons.ino)
+* See use case [here](https://github.com/lwhitaker3/Physical-Computing/blob/master/Week3/buttons.jpg)
+
+##Week 3
+Assignment: "Make and Document the Love-O-Meter and Color Mixing Lamp"
+###"Love-O-Meter"
+* See the video [here](https://youtu.be/t3qMLJkjis4)
+* See the code [here](https://github.com/lwhitaker3/Physical-Computing/blob/master/Week4/love-o-meter/love-o-meter.ino)
+###"Color Mixing Lamp"
+* See the video [here](https://youtu.be/DTOPRZWkYfE)
+* See the code [here](https://github.com/lwhitaker3/Physical-Computing/blob/master/Week4/mixing_lamp/mixing_lamp.ino)
