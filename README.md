@@ -25,7 +25,7 @@ Assignment: "Use 2 switches to turn on 2 leds. Think of a use case, ie. game, ap
 * See the code [here](https://github.com/lwhitaker3/Physical-Computing/blob/master/Week3/led_buttons/led_buttons.ino)
 * See use case [here](https://github.com/lwhitaker3/Physical-Computing/blob/master/Week3/buttons.jpg)
 
-##Week 3
+##Week 4
 Assignment: "Make and Document the Love-O-Meter and Color Mixing Lamp"
 ###"Love-O-Meter"
 * See the video [here](https://youtu.be/t3qMLJkjis4)
@@ -33,3 +33,10 @@ Assignment: "Make and Document the Love-O-Meter and Color Mixing Lamp"
 ###"Color Mixing Lamp"
 * See the video [here](https://youtu.be/DTOPRZWkYfE)
 * See the code [here](https://github.com/lwhitaker3/Physical-Computing/blob/master/Week4/mixing_lamp/mixing_lamp.ino)
+
+
+##Week 4
+Assignment: "Create and document the chapter 8 digital hour glass assignment."
+###"Digital Hourglass"
+* See the video [here](https://youtu.be/y4qwND6WBCY)
+* See the code [here](https://github.com/lwhitaker3/Physical-Computing/blob/master/Week4/digital_hourglass/digital_hourglass.ino)
