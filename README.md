@@ -35,8 +35,8 @@ Assignment: "Make and Document the Love-O-Meter and Color Mixing Lamp"
 * See the code [here](https://github.com/lwhitaker3/Physical-Computing/blob/master/Week4/mixing_lamp/mixing_lamp.ino)
 
 
-##Week 4
+##Week 5
 Assignment: "Create and document the chapter 8 digital hour glass assignment."
 ###"Digital Hourglass"
 * See the video [here](https://youtu.be/y4qwND6WBCY)
-* See the code [here](https://github.com/lwhitaker3/Physical-Computing/blob/master/Week4/digital_hourglass/digital_hourglass.ino)
+* See the code [here](https://github.com/lwhitaker3/Physical-Computing/blob/master/Week5/digital_hourglass/digital_hourglass.ino)
