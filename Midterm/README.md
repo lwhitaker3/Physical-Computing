@@ -44,3 +44,6 @@ Robot's LED nose will light up with there is something in front of the robot. Wh
 * If there is an object in front of the ultrasonic sensor the LED light will come on
   * LED will blink when something is 2 inches in front of the ultrasonic sensor
   * LED will stay stay on once object is within 1 inch.
+
+####Possible Addition
+* Add a speaker so robot can "talk". He would say prerecorded mp3 files.
