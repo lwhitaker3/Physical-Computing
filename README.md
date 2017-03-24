@@ -1,8 +1,8 @@
 # Physical Computing Class
 
-##Week 1
+## Week 1
 Assignment: "Create a crazy machine, this machine can be useful or be self servient. The most important is to think about how a user is going to operate your machine. Think of knobs, switches, levers, etc"
-###My Machine: The Cuisinator
+### My Machine: The Cuisinator
 1. The user enters the settings on the right side of the machine: number of people, how long they have, serving size.
 2. The user uses the keyboard and touch screen interface to find meals. There is also an app for the phone so they can plan before they get home from work or while out at the grocery store.
 3. The user puts the raw unwrapped ingredients into the compartments separating out meat, veggies, grains, and spices. If an ingredient is missing the system will warn the user but will make the dish anyway.
@@ -12,31 +12,31 @@ Assignment: "Create a crazy machine, this machine can be useful or be self servi
 See the sketch [here](https://github.com/lwhitaker3/Physical-Computing/blob/master/Week1/cuisinator-01.png)
 
 
-##Week 2
+## Week 2
 Assignment: "Create a sketch that turns on and off 3 LEDS."
-###"Traffic Light"
+### "Traffic Light"
 * See the video [here](https://youtu.be/zY5be5Ik8AA)
 * See the code [here](https://github.com/lwhitaker3/Physical-Computing/blob/master/Week2/traffic_light/traffic_light.ino)
 
-##Week 3
+## Week 3
 Assignment: "Use 2 switches to turn on 2 leds. Think of a use case, ie. game, application, and toy. Use paper, cardboard, and other medium, to create an interface to your use case."
-###"Elevator Buttons"
+### "Elevator Buttons"
 * See the video [here](https://youtu.be/092U7Zyq3GQ)
 * See the code [here](https://github.com/lwhitaker3/Physical-Computing/blob/master/Week3/led_buttons/led_buttons.ino)
 * See use case [here](https://github.com/lwhitaker3/Physical-Computing/blob/master/Week3/buttons.jpg)
 
-##Week 4
+## Week 4
 Assignment: "Make and Document the Love-O-Meter and Color Mixing Lamp"
-###"Love-O-Meter"
+### "Love-O-Meter"
 * See the video [here](https://youtu.be/t3qMLJkjis4)
 * See the code [here](https://github.com/lwhitaker3/Physical-Computing/blob/master/Week4/love-o-meter/love-o-meter.ino)
-###"Color Mixing Lamp"
+### "Color Mixing Lamp"
 * See the video [here](https://youtu.be/DTOPRZWkYfE)
 * See the code [here](https://github.com/lwhitaker3/Physical-Computing/blob/master/Week4/mixing_lamp/mixing_lamp.ino)
 
 
-##Week 5
+## Week 5
 Assignment: "Create and document the chapter 8 digital hour glass assignment."
-###"Digital Hourglass"
+### "Digital Hourglass"
 * See the video [here](https://youtu.be/y4qwND6WBCY)
 * See the code [here](https://github.com/lwhitaker3/Physical-Computing/blob/master/Week5/digital_hourglass/digital_hourglass.ino)
